@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Russian (ru)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Russian (ru)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 98205b5b4cbe346bbbcb6fddc791d85c
+  m_SerializeEntries:
+  - m_GUID: 467b38504fbd6ca4981d5b4a03e2192c
+    m_Address: PlayButton
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: b95800fc02f6374478ac4ff37b4501f4
+    m_Address: RussianLanguageSelectButton
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: bff065437401279409acdc02f251f5e4
+    m_Address: PauseRusPanel
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 4aaf779bbff4ca14b84f465b710b1fa2
+    m_Address: ReturnToMenuRusPanel
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: a367a021c2d66a141a0fcc1d054aab79
+    m_Address: YesRusButton
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 718265a9e75567e4fad09115a595e639
+    m_Address: NoRusButton
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 255df3a8761594449b45cdfa6ca12e5e
+    m_Address: ExitRuPanel
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 26fe2d1601a68964799d24a10048d0cd
+    m_Address: RestartRusPanel
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 8fd26ee394c80bb40a8e89e3b9436aca
+    m_Address: NewRecordRusPanel
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: ffc45104f3161544581cbb9be7ab62ef
+    m_Address: NewRusWord
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 59c60c9f4df4339488d8084a4c796564
+    m_Address: restartRusButton
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 24845a6f732194fd2a1400526563bba1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cdbf0bcf89a7b4a91b702618ae1b1f28, type: 2}
+    - {fileID: 11400000, guid: 240c0818390f84c30aae15726c5f8d6c, type: 2}

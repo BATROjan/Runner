@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4b0056ceffd49ccb89ece59a808d061, type: 3}
+  m_Name: PlayerColliderConfig
+  m_EditorClassIdentifier: 
+  playerColliderModel:
+  - PlayerState: 0
+    ColliderModel:
+    - State: 0
+      PolygonCollider2D: {fileID: 7804573623502324327, guid: 572f8b24f6d6e784a9fd05b376da8335, type: 3}
+    - State: 1
+      PolygonCollider2D: {fileID: 6918378894771609781, guid: 71d7982ae4e3fc844b75732caa4dabc3, type: 3}
+    - State: 2
+      PolygonCollider2D: {fileID: 7804573623502324327, guid: de171394847fc214596605b0716c9328, type: 3}
+    - State: 3
+      PolygonCollider2D: {fileID: 6918378894771609781, guid: 04e31b09f5238ca4caa8ff4f47161672, type: 3}
+  - PlayerState: 1
+    ColliderModel:
+    - State: 0
+      PolygonCollider2D: {fileID: 7804573623502324327, guid: fd405d13271f4124c924dfa65cc361f9, type: 3}
+    - State: 1
+      PolygonCollider2D: {fileID: 7804573623502324327, guid: 5ea2ad4de0505e2478b19f2564dfc5ff, type: 3}
+    - State: 2
+      PolygonCollider2D: {fileID: 7804573623502324327, guid: da497d559e9883848afe20407ee5131b, type: 3}
+    - State: 3
+      PolygonCollider2D: {fileID: 7804573623502324327, guid: e83ff39bb9b42914d8f787d1624d11c6, type: 3}

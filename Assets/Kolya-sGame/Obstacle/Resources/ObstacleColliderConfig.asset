@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13d8285c1feb4e8982b773b3ff288aa5, type: 3}
+  m_Name: ObstacleColliderConfig
+  m_EditorClassIdentifier: 
+  obstacleColliderModels:
+  - ObstacleName: BigStashCan_Orange
+    PolygonCollider2D:
+    - {fileID: 8429068029275603379, guid: 9ffd5c6000f88054a9c5096916696522, type: 3}
+    - {fileID: 8429068029275603379, guid: 9ffd5c6000f88054a9c5096916696522, type: 3}
+    - {fileID: 8429068029275603379, guid: 3a2f735a06e5bcf4a8a6d1c1906e3460, type: 3}
+  - ObstacleName: BigStashCan_Blue
+    PolygonCollider2D:
+    - {fileID: 8429068029275603379, guid: c08eace65b7a03d44860af2ccc2ad1c5, type: 3}
+    - {fileID: 8429068029275603379, guid: c08eace65b7a03d44860af2ccc2ad1c5, type: 3}
+    - {fileID: 8429068029275603379, guid: 8a3642bbeb681f841bdb3b3da9c1a766, type: 3}
+  - ObstacleName: BigStashCan_Black
+    PolygonCollider2D:
+    - {fileID: 8429068029275603379, guid: 985501a0a7a0cf9469f2508271766a96, type: 3}
+    - {fileID: 8429068029275603379, guid: 985501a0a7a0cf9469f2508271766a96, type: 3}
+    - {fileID: 8429068029275603379, guid: f363ba26a8f43fc49aca4ddaebc3feaf, type: 3}
+  - ObstacleName: TruckWithBoxes
+    PolygonCollider2D:
+    - {fileID: 8429068029275603379, guid: 4b062f691eb51e34bae5473e83eec1b1, type: 3}
+    - {fileID: 8429068029275603379, guid: 4b062f691eb51e34bae5473e83eec1b1, type: 3}
+    - {fileID: 8429068029275603379, guid: 02159be104eb4b840992cac0562a66f3, type: 3}
+  - ObstacleName: TruckWithoutBoxes
+    PolygonCollider2D:
+    - {fileID: 8429068029275603379, guid: 859bad871348e6348acf0779cc070422, type: 3}
+    - {fileID: 8429068029275603379, guid: 859bad871348e6348acf0779cc070422, type: 3}
+    - {fileID: 8429068029275603379, guid: c97d66a810dffb74c9be853be3a12d63, type: 3}
+  - ObstacleName: CartoonTruck
+    PolygonCollider2D:
+    - {fileID: 8429068029275603379, guid: 007e0238f2ddb394b940418242c9a198, type: 3}
+    - {fileID: 8429068029275603379, guid: 0347c66d890c21149b36c431b371f030, type: 3}
+    - {fileID: 8429068029275603379, guid: 72e73ffd15c37fe4cbad1c419adeee13, type: 3}

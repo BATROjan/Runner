@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7efa777749e11432397266a5fef4e952, type: 3}
+  m_Name: ParametersConfig
+  m_EditorClassIdentifier: 
+  startRatioSpeed: 1.4
+  endRatioSpeed: 2.5
+  durationRiseSpeed: 3000
+  startRatioScore: 1
+  endRatioScore: 1
+  durationRiseScore: 0
+  startRatioStar: 1
+  endRatioStar: 4
+  durationRiseStar: 3000
+  startSpeedPlayerSit: 0.8
+  endSpeedPlayerSit: 2
+  durationSpeedPlayerSit: 3000
+  startSpeedPlayerStand: 1
+  endSpeedPlayerStand: 2
+  durationSpeedPlayerStand: 3000
+  startSpeedWheel: 1
+  endSpeedWheel: 2
+  durationSpeedWheel: 3000

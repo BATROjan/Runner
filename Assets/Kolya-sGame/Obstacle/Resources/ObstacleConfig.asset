@@ -1,0 +1,584 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fac24de54b0a4f2095d7836928defdfd, type: 3}
+  m_Name: ObstacleConfig
+  m_EditorClassIdentifier: 
+  ObstacleModelsByWorld:
+  - WorldName: 0
+    ObstacleModel:
+    - ObstaclePosition: 2
+      ObstacleName: 
+      SpriteForReality: {fileID: 21300000, guid: 28c9fdc5f86d6a04e84004a8433eadef, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 796f3150aa1e1c740b4b2e7ca42d910e, type: 3}
+      SpriteForVRBack: {fileID: 0}
+      IsSpawnStar: 1
+      Length: 0
+      Height: 0
+      AmountStar: 7
+      Probability: 60
+      Offset: 0
+      PositionStar:
+      - {x: -5.77, y: -0.25, z: 0}
+      - {x: -4.24, y: 1.52, z: 0}
+      - {x: -2.31, y: 2.7, z: 0}
+      - {x: 0, y: 3.2, z: 0}
+      - {x: 5.77, y: -0.25, z: 0}
+      - {x: 4.24, y: 1.52, z: 0}
+      - {x: 2.31, y: 2.7, z: 0}
+      AnimState: 0
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 0
+      ObstacleName: 
+      SpriteForReality: {fileID: 21300000, guid: b081e3dda911fe742a6a2b91d858b4f4, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: b081e3dda911fe742a6a2b91d858b4f4, type: 3}
+      SpriteForVRBack: {fileID: 0}
+      IsSpawnStar: 1
+      Length: 0
+      Height: 0
+      AmountStar: 5
+      Probability: 60
+      Offset: 0
+      PositionStar:
+      - {x: -4, y: -3.55, z: 0}
+      - {x: -2, y: -3.55, z: 0}
+      - {x: 0, y: -3.55, z: 0}
+      - {x: 2, y: -3.55, z: 0}
+      - {x: 4, y: -3.55, z: 0}
+      AnimState: 0
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 2
+      ObstacleName: 
+      SpriteForReality: {fileID: 21300000, guid: 663b70339137f214ebcdf17c7ac227bf, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: a00ec20f7272765439159bcdd25d1c34, type: 3}
+      SpriteForVRBack: {fileID: 0}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar: []
+      AnimState: 0
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 6
+      ObstacleName: 
+      SpriteForReality: {fileID: 21300000, guid: a11b92d793de3174a8231ece353a03b0, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: a11b92d793de3174a8231ece353a03b0, type: 3}
+      SpriteForVRBack: {fileID: 0}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar: []
+      AnimState: 0
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 6
+      ObstacleName: 
+      SpriteForReality: {fileID: 21300000, guid: 34f212f00f5ff94458c920019c3f5aa4, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 2e1b498b81885f94d994369fc25eede7, type: 3}
+      SpriteForVRBack: {fileID: 0}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar: []
+      AnimState: 0
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 7
+      ObstacleName: CartoonTruck
+      SpriteForReality: {fileID: 21300000, guid: b0de140a5f8e3274fac0727a9e87f5e6, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: e4c0265698d66a148873cd5bc85a8a1d, type: 3}
+      SpriteForVRBack: {fileID: 0}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar: []
+      AnimState: 0
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 5
+      ObstacleName: 
+      SpriteForReality: {fileID: 21300000, guid: b2171cd5ebe91254cad76f3b75792ee9, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: b2171cd5ebe91254cad76f3b75792ee9, type: 3}
+      SpriteForVRBack: {fileID: 0}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar: []
+      AnimState: 0
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 3
+      ObstacleName: 
+      SpriteForReality: {fileID: 21300000, guid: 28c9fdc5f86d6a04e84004a8433eadef, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 796f3150aa1e1c740b4b2e7ca42d910e, type: 3}
+      SpriteForVRBack: {fileID: 0}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar: []
+      AnimState: 0
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 3
+      ObstacleName: 
+      SpriteForReality: {fileID: 21300000, guid: 663b70339137f214ebcdf17c7ac227bf, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: a00ec20f7272765439159bcdd25d1c34, type: 3}
+      SpriteForVRBack: {fileID: 0}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar: []
+      AnimState: 0
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 1
+      ObstacleName: 
+      SpriteForReality: {fileID: 21300000, guid: b081e3dda911fe742a6a2b91d858b4f4, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: b081e3dda911fe742a6a2b91d858b4f4, type: 3}
+      SpriteForVRBack: {fileID: 0}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar: []
+      AnimState: 0
+      SpriteFoAnim: {fileID: 0}
+  - WorldName: 1
+    ObstacleModel:
+    - ObstaclePosition: 2
+      ObstacleName: SmallStashCan_Green
+      SpriteForReality: {fileID: 21300000, guid: 73adab4f0a4df5c4c84befb9d6a92b59, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 73adab4f0a4df5c4c84befb9d6a92b59, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 8fe0b6585506da740a34b7f53d3b8f34, type: 3}
+      IsSpawnStar: 1
+      Length: 0
+      Height: 0
+      AmountStar: 7
+      Probability: 60
+      Offset: 0
+      PositionStar:
+      - {x: -5.77, y: -0.25, z: 0}
+      - {x: -4.25, y: 1.52, z: 0}
+      - {x: -2.31, y: 2.7, z: 0}
+      - {x: 0, y: 3.2, z: 0}
+      - {x: 5.77, y: -0.25, z: 0}
+      - {x: 4.25, y: 1.52, z: 0}
+      - {x: 2.31, y: 2.7, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 2
+      ObstacleName: SmallStashCan_Yellow
+      SpriteForReality: {fileID: 21300000, guid: ce5bfc35f9cdd464e9804a3ea751b7c5, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: ce5bfc35f9cdd464e9804a3ea751b7c5, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: b644b888afc4421489645d2bd9340055, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 7
+      Probability: 60
+      Offset: 0
+      PositionStar:
+      - {x: -5.77, y: -0.25, z: 0}
+      - {x: -4.25, y: 1.52, z: 0}
+      - {x: -2.31, y: 2.7, z: 0}
+      - {x: 0, y: 3.2, z: 0}
+      - {x: 5.77, y: -0.25, z: 0}
+      - {x: 4.25, y: 1.52, z: 0}
+      - {x: 2.31, y: 2.7, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 2
+      ObstacleName: SmallStashCan_Blue
+      SpriteForReality: {fileID: 21300000, guid: ab0e4618af8478f4583040a7209fa496, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: ab0e4618af8478f4583040a7209fa496, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 2e7b819802f541a47b63b270a187c2bc, type: 3}
+      IsSpawnStar: 1
+      Length: 0
+      Height: 0
+      AmountStar: 7
+      Probability: 60
+      Offset: 0
+      PositionStar:
+      - {x: -5.77, y: -0.25, z: 0}
+      - {x: -4.25, y: 1.52, z: 0}
+      - {x: -2.31, y: 2.7, z: 0}
+      - {x: 0, y: 3.2, z: 0}
+      - {x: 5.77, y: -0.25, z: 0}
+      - {x: 4.25, y: 1.52, z: 0}
+      - {x: 2.31, y: 2.7, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 2
+      ObstacleName: Hatch
+      SpriteForReality: {fileID: 21300000, guid: 94def4e426d334f44ba0aa733a3686a4, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 94def4e426d334f44ba0aa733a3686a4, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 8eeeee02d57d39a4da682aa497cfa0e2, type: 3}
+      IsSpawnStar: 1
+      Length: 0
+      Height: 0
+      AmountStar: 7
+      Probability: 60
+      Offset: 0
+      PositionStar:
+      - {x: -5.77, y: -0.25, z: 0}
+      - {x: -4.25, y: 1.52, z: 0}
+      - {x: -2.31, y: 2.7, z: 0}
+      - {x: 0, y: 3.2, z: 0}
+      - {x: 5.77, y: -0.25, z: 0}
+      - {x: 4.25, y: 1.52, z: 0}
+      - {x: 2.31, y: 2.7, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 2
+      ObstacleName: Cone
+      SpriteForReality: {fileID: 21300000, guid: 93535b8537036df4f82a5fcded4aff1f, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 93535b8537036df4f82a5fcded4aff1f, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: e38b1eac40cbc9449904f37b7fcbb8fd, type: 3}
+      IsSpawnStar: 1
+      Length: 0
+      Height: 0
+      AmountStar: 7
+      Probability: 60
+      Offset: 0
+      PositionStar:
+      - {x: -5.77, y: -0.25, z: 0}
+      - {x: -4.25, y: 1.52, z: 0}
+      - {x: -2.31, y: 2.7, z: 0}
+      - {x: 0, y: 3.2, z: 0}
+      - {x: 5.77, y: -0.25, z: 0}
+      - {x: 4.25, y: 1.52, z: 0}
+      - {x: 2.31, y: 2.7, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 6
+      ObstacleName: Bump
+      SpriteForReality: {fileID: 21300000, guid: 5805b67b7a8a3e94c8d846251b668969, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 5805b67b7a8a3e94c8d846251b668969, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 2d12e72457e5473458e3530245595926, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 1, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 6
+      ObstacleName: BigBox
+      SpriteForReality: {fileID: 21300000, guid: 3090322c78e3a8f47a313247dc4cd3df, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 3090322c78e3a8f47a313247dc4cd3df, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: a30a159dc89de1142a38c41179e1ccf0, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 1, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 7
+      ObstacleName: TruckWithBoxes
+      SpriteForReality: {fileID: 21300000, guid: 632cd7d970812794fb076593e83675e3, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 632cd7d970812794fb076593e83675e3, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 4e8739b09c26d054195f1915408634d2, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 1, z: 0}
+      AnimState: 0
+      SpriteFoAnim: {fileID: 21300000, guid: 0027b234ca609c543a842ec6b9fa54ff, type: 3}
+    - ObstaclePosition: 6
+      ObstacleName: BigStashCan_Blue
+      SpriteForReality: {fileID: 21300000, guid: 1ea62a1be0ee12848b81e8468596d538, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 1ea62a1be0ee12848b81e8468596d538, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: b5fe1177f5d634f44bc2d127409c1130, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 1, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 6
+      ObstacleName: BigStashCan_Black
+      SpriteForReality: {fileID: 21300000, guid: 51b99d925f739d040b1aed08a68f1ce3, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 51b99d925f739d040b1aed08a68f1ce3, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: faffe0ef5c3e74b4c847389a820947c2, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 1, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 6
+      ObstacleName: Table
+      SpriteForReality: {fileID: 21300000, guid: 1e8eca3bd29c1d74c9a5e03e2b9c8365, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 1e8eca3bd29c1d74c9a5e03e2b9c8365, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 76296af561ddbd14685707d2d02f3e09, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 1, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 6
+      ObstacleName: Table
+      SpriteForReality: {fileID: 21300000, guid: 1e8eca3bd29c1d74c9a5e03e2b9c8365, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 1e8eca3bd29c1d74c9a5e03e2b9c8365, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 76296af561ddbd14685707d2d02f3e09, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 1, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 0
+      ObstacleName: Drone_1
+      SpriteForReality: {fileID: 21300000, guid: b081e3dda911fe742a6a2b91d858b4f4, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: b081e3dda911fe742a6a2b91d858b4f4, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 7efda4cd3f3797643aa4293f3e454c50, type: 3}
+      IsSpawnStar: 1
+      Length: 0
+      Height: 0
+      AmountStar: 5
+      Probability: 60
+      Offset: 0
+      PositionStar:
+      - {x: -4, y: -3.55, z: 0}
+      - {x: -2, y: -3.55, z: 0}
+      - {x: 0, y: -3.55, z: 0}
+      - {x: 2, y: -3.55, z: 0}
+      - {x: 4, y: -3.55, z: 0}
+      AnimState: 1
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 0
+      ObstacleName: Drone_2
+      SpriteForReality: {fileID: 21300000, guid: 0d8a1edccf0e34f4ab874643bbdfec0c, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 0d8a1edccf0e34f4ab874643bbdfec0c, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 7f67648ee5af2f84990e41dcbafdb7e7, type: 3}
+      IsSpawnStar: 1
+      Length: 0
+      Height: 0
+      AmountStar: 5
+      Probability: 60
+      Offset: 0
+      PositionStar:
+      - {x: -4, y: -3.55, z: 0}
+      - {x: -2, y: -3.55, z: 0}
+      - {x: 0, y: -3.55, z: 0}
+      - {x: 2, y: -3.55, z: 0}
+      - {x: 4, y: -3.55, z: 0}
+      AnimState: 1
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 5
+      ObstacleName: BigDrone
+      SpriteForReality: {fileID: 21300000, guid: b2171cd5ebe91254cad76f3b75792ee9, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: b2171cd5ebe91254cad76f3b75792ee9, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 39844997bd402a4409902aaba8a7ae6c, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 0, z: 0}
+      AnimState: 1
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 6
+      ObstacleName: Trash
+      SpriteForReality: {fileID: 21300000, guid: 9228973d3765fb04991f9f3eb42341c0, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 9228973d3765fb04991f9f3eb42341c0, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: d83fae666a1f3d54e8c2d77950be954b, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 0, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 2
+      ObstacleName: Box
+      SpriteForReality: {fileID: 21300000, guid: e907146879cbc5e4eb25c5ecdb40d9b7, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: e907146879cbc5e4eb25c5ecdb40d9b7, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: ddb999aa86782ef4e837c89e2a916919, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 0, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 7
+      ObstacleName: TruckWithoutBoxes
+      SpriteForReality: {fileID: 21300000, guid: 5ab44361b38977d43877095537471fd0, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 5ab44361b38977d43877095537471fd0, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 4b8ee427f325d914ab0e1c64e73af54c, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 0, z: 0}
+      AnimState: 0
+      SpriteFoAnim: {fileID: 21300000, guid: 0027b234ca609c543a842ec6b9fa54ff, type: 3}
+    - ObstaclePosition: 6
+      ObstacleName: BigStashCan_Orange
+      SpriteForReality: {fileID: 21300000, guid: 3b1c2a71a050c1d4194bda14c26b5f65, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 3b1c2a71a050c1d4194bda14c26b5f65, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 483cb62ff501d344b9ce516445e6db6b, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 0, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 1
+      ObstacleName: Drone_1
+      SpriteForReality: {fileID: 21300000, guid: b081e3dda911fe742a6a2b91d858b4f4, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: b081e3dda911fe742a6a2b91d858b4f4, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 7efda4cd3f3797643aa4293f3e454c50, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 0, z: 0}
+      AnimState: 1
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 1
+      ObstacleName: Drone_2
+      SpriteForReality: {fileID: 21300000, guid: 0d8a1edccf0e34f4ab874643bbdfec0c, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 0d8a1edccf0e34f4ab874643bbdfec0c, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 7f67648ee5af2f84990e41dcbafdb7e7, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 0, z: 0}
+      AnimState: 1
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 3
+      ObstacleName: Box
+      SpriteForReality: {fileID: 21300000, guid: e907146879cbc5e4eb25c5ecdb40d9b7, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: e907146879cbc5e4eb25c5ecdb40d9b7, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: ddb999aa86782ef4e837c89e2a916919, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 0, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 3
+      ObstacleName: Cone
+      SpriteForReality: {fileID: 21300000, guid: 93535b8537036df4f82a5fcded4aff1f, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 93535b8537036df4f82a5fcded4aff1f, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: e38b1eac40cbc9449904f37b7fcbb8fd, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 0, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 3
+      ObstacleName: SmallStashCan_Green
+      SpriteForReality: {fileID: 21300000, guid: 73adab4f0a4df5c4c84befb9d6a92b59, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: 73adab4f0a4df5c4c84befb9d6a92b59, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: 8fe0b6585506da740a34b7f53d3b8f34, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 0, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}
+    - ObstaclePosition: 3
+      ObstacleName: SmallStashCan_Yellow
+      SpriteForReality: {fileID: 21300000, guid: ce5bfc35f9cdd464e9804a3ea751b7c5, type: 3}
+      SpriteForVR: {fileID: 21300000, guid: ce5bfc35f9cdd464e9804a3ea751b7c5, type: 3}
+      SpriteForVRBack: {fileID: 21300000, guid: b644b888afc4421489645d2bd9340055, type: 3}
+      IsSpawnStar: 0
+      Length: 0
+      Height: 0
+      AmountStar: 0
+      Probability: 0
+      Offset: 0
+      PositionStar:
+      - {x: 0, y: 0, z: 0}
+      AnimState: 2
+      SpriteFoAnim: {fileID: 0}

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-English (en)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-English (en)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: eb000664aa53a409cb1f2a9e7c093702
+  m_SerializeEntries:
+  - m_GUID: 1ab5f42475efe4e458f12e6bc1993b1e
+    m_Address: PlayEngButton
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 3f9efd82e7f0ec942b55730277aa97e0
+    m_Address: EnglishLanguageSelectButton
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: f0ea5bacfdfa91249a6f145735772e6c
+    m_Address: PauseEngPanel
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 593a027e36042db4786177d06710fe42
+    m_Address: ReturnToMenuEngPanel
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: f848300d83ec24e448ded52dbcef0ea3
+    m_Address: YesEngButton
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 454c7559c5dd5e24aab0bf3784a53f22
+    m_Address: NoEngButton
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 0ec925a8d527fa048877a96369c19b67
+    m_Address: ExitEngPanel
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 2135c91766d603540b1f1981b3a32482
+    m_Address: RestartEngPanel
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 3ad221d0792cd384fb3e65b47f811f67
+    m_Address: NewRecordEngPanel
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 3018ba4ee5b2ce94c87f6be4d5e9e87c
+    m_Address: NewEngWord
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 0b76fb1da96314483af6d4a8e354b4d6
+    m_Address: restartEngButton
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 24845a6f732194fd2a1400526563bba1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6968b1e4f35b54fd5a3922b44fa7ac32, type: 2}
+    - {fileID: 11400000, guid: 6ba69d663c063422f8bfd9ece0389a50, type: 2}

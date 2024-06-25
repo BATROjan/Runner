@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9dff51e7e6b4fd3906a10ac1f9dfe05, type: 3}
+  m_Name: ObstacleTileConfig
+  m_EditorClassIdentifier: 
+  tileModels:
+  - Type: 0
+    View: {fileID: 3953900475805550317, guid: 38cf84f64254ac14ca8a143dfb700863, type: 3}
+  - Type: 1
+    View: {fileID: 8840544746289166891, guid: 93421f39814a25b48be72b85e65bdb26, type: 3}
+  - Type: 1
+    View: {fileID: 5836313487347391288, guid: 70c5a55cb0068a34a9859ebd2723d795, type: 3}
+  - Type: 1
+    View: {fileID: 8840544746289166891, guid: 28fb97b473d92e843846863500ca5f15, type: 3}
+  - Type: 1
+    View: {fileID: 4780426135914329225, guid: 7627602606d92784aa3c17225ce5f182, type: 3}
+  - Type: 1
+    View: {fileID: 4780426135914329225, guid: 94d2037cdf1d56b40b632aeefe830d02, type: 3}
+  - Type: 1
+    View: {fileID: 4780426135914329225, guid: 017b715e06c1b124588485d5e59eaea4, type: 3}
+  - Type: 1
+    View: {fileID: 4780426135914329225, guid: f56fa3e09905fa6479bdc31e2349a808, type: 3}
+  - Type: 1
+    View: {fileID: 4780426135914329225, guid: 34f44d021e4330d48a7a54b38d6fdf56, type: 3}
+  - Type: 1
+    View: {fileID: 4780426135914329225, guid: d6b7871f50fcec44488c9e2ccad59243, type: 3}
+  - Type: 1
+    View: {fileID: 4780426135914329225, guid: 7c1a89ffaa667a5469eb6771faa51089, type: 3}

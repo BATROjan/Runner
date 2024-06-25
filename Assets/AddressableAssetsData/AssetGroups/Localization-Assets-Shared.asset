@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 38530ed4dff764a9187fab76f9c9a893
+  m_SerializeEntries:
+  - m_GUID: 3eb24254118b64df7ae73cfe272e3e16
+    m_Address: Assets/Kolya-sGame/Localization/LocalizationText Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: a21b3a60ec572fe4faecc0ec71456806
+    m_Address: Assets/Art/Play Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 7f8aa5ce576102040a88798be0400363
+    m_Address: Assets/Kolya-sGame/Localization/LangueSettingPanel Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 5546611deace61b4d9c0f63a396769ea
+    m_Address: Assets/Kolya-sGame/Localization/Pause Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 855d11c1db4dd4549b5b26a65146e458
+    m_Address: Assets/Kolya-sGame/Localization/ReturnPanel Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 5feff90dccc76f64fb6e35ff0b99d640
+    m_Address: Assets/Kolya-sGame/Localization/YesButton Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 9b9f3d7143961d84b8ad09ed12301d28
+    m_Address: Assets/Kolya-sGame/Localization/NoButton Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: a1fbb74ed797e0842b32369ac8400651
+    m_Address: Assets/Kolya-sGame/Localization/ExitPanel Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 6f809e9a2795d4a4384b3bb4c728e9d4
+    m_Address: Assets/Kolya-sGame/Localization/Score Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 1cb11660549c45945975a1b75b74e1dc
+    m_Address: Assets/Kolya-sGame/Localization/NewRecordPanel Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 09f45f3d365c45845adc6af8cfa52bde
+    m_Address: Assets/Kolya-sGame/Localization/New Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: bf76c077eafe52340a9194c4b0619ea7
+    m_Address: Assets/Kolya-sGame/Localization/RestartButton Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 24845a6f732194fd2a1400526563bba1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 41672fd70bf6b43ea991966690f3d13d, type: 2}
+    - {fileID: 11400000, guid: 0490ad99f619547e59323b3e86eb39df, type: 2}

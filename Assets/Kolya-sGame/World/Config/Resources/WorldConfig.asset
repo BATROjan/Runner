@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fbec2124d8c3044fa0e9dd55560d3b7, type: 3}
+  m_Name: WorldConfig
+  m_EditorClassIdentifier: 
+  worldModels:
+  - Name: 0
+    LayersWorld:
+    - NumberLayer: 0
+      SpeedMove: 5
+      SpritesForReality:
+      - {fileID: 21300000, guid: 91bf438af86bfda4391ca2bf737c7693, type: 3}
+      - {fileID: 21300000, guid: 91bf438af86bfda4391ca2bf737c7693, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: 0ef0ee9852163ac4f870969a95508449, type: 3}
+      - {fileID: 21300000, guid: 0ef0ee9852163ac4f870969a95508449, type: 3}
+      SortingOrderReality: 0
+      SortingOrderVr: 0
+      BannerModels: []
+    - NumberLayer: 1
+      SpeedMove: 3.2
+      SpritesForReality:
+      - {fileID: 21300000, guid: d725cfb039865b846b4b89c0626b6f7f, type: 3}
+      - {fileID: 21300000, guid: d725cfb039865b846b4b89c0626b6f7f, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: b65840b9f8351a34087d9e061c9cd632, type: 3}
+      - {fileID: 21300000, guid: b65840b9f8351a34087d9e061c9cd632, type: 3}
+      SortingOrderReality: 0
+      SortingOrderVr: 0
+      BannerModels: []
+    - NumberLayer: 2
+      SpeedMove: 2.5
+      SpritesForReality:
+      - {fileID: 21300000, guid: f18bbded9e3f22344be34c9c7cba4af7, type: 3}
+      - {fileID: 21300000, guid: f18bbded9e3f22344be34c9c7cba4af7, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: 3a780fb1130e0f14b93fd7a5d9ad522a, type: 3}
+      - {fileID: 21300000, guid: 3a780fb1130e0f14b93fd7a5d9ad522a, type: 3}
+      SortingOrderReality: 0
+      SortingOrderVr: 0
+      BannerModels: []
+    - NumberLayer: 3
+      SpeedMove: 1.6
+      SpritesForReality:
+      - {fileID: 21300000, guid: a01651e0aa41c4f479de29971a4ae92e, type: 3}
+      - {fileID: 21300000, guid: a01651e0aa41c4f479de29971a4ae92e, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: 49bc207643f56c843b9275ecd5c874f4, type: 3}
+      - {fileID: 21300000, guid: 49bc207643f56c843b9275ecd5c874f4, type: 3}
+      SortingOrderReality: 0
+      SortingOrderVr: 0
+      BannerModels: []
+    - NumberLayer: 4
+      SpeedMove: 0.6
+      SpritesForReality:
+      - {fileID: 21300000, guid: bfe035981551d2747a29054caeb6a506, type: 3}
+      - {fileID: 21300000, guid: bfe035981551d2747a29054caeb6a506, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: b27b615a272edd644b1b7e7b5ee47516, type: 3}
+      - {fileID: 21300000, guid: b27b615a272edd644b1b7e7b5ee47516, type: 3}
+      SortingOrderReality: 0
+      SortingOrderVr: 0
+      BannerModels: []
+  - Name: 1
+    LayersWorld:
+    - NumberLayer: 1
+      SpeedMove: 5
+      SpritesForReality:
+      - {fileID: 21300000, guid: 6e454d28f10f0524d85d439004e4fc8a, type: 3}
+      - {fileID: 21300000, guid: 6e454d28f10f0524d85d439004e4fc8a, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: 6e454d28f10f0524d85d439004e4fc8a, type: 3}
+      - {fileID: 21300000, guid: 6e454d28f10f0524d85d439004e4fc8a, type: 3}
+      SortingOrderReality: 35
+      SortingOrderVr: 35
+      BannerModels: []
+    - NumberLayer: 2
+      SpeedMove: 5
+      SpritesForReality:
+      - {fileID: 21300000, guid: 9f8c7645d05934244914d1d050f7555f, type: 3}
+      - {fileID: 21300000, guid: 9f8c7645d05934244914d1d050f7555f, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: 9f8c7645d05934244914d1d050f7555f, type: 3}
+      - {fileID: 21300000, guid: 9f8c7645d05934244914d1d050f7555f, type: 3}
+      SortingOrderReality: 0
+      SortingOrderVr: 0
+      BannerModels: []
+    - NumberLayer: 3
+      SpeedMove: 5
+      SpritesForReality:
+      - {fileID: 21300000, guid: c06717268f0a7e64a817d11ce8759104, type: 3}
+      - {fileID: 21300000, guid: c06717268f0a7e64a817d11ce8759104, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: c06717268f0a7e64a817d11ce8759104, type: 3}
+      - {fileID: 21300000, guid: c06717268f0a7e64a817d11ce8759104, type: 3}
+      SortingOrderReality: 0
+      SortingOrderVr: 0
+      BannerModels:
+      - BannerName: 0
+        Clip: {fileID: 32900000, guid: 30eae17d13d13684c93c884ca719bb78, type: 3}
+        BannerPosition: {x: -20.37, y: -1.2688, z: 0.1}
+        SortingOrder: 0
+    - NumberLayer: 4
+      SpeedMove: 5
+      SpritesForReality:
+      - {fileID: 21300000, guid: c574bf81e6a8e1d4cb7b8fb4d2d5d733, type: 3}
+      - {fileID: 21300000, guid: c574bf81e6a8e1d4cb7b8fb4d2d5d733, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: c574bf81e6a8e1d4cb7b8fb4d2d5d733, type: 3}
+      - {fileID: 21300000, guid: c574bf81e6a8e1d4cb7b8fb4d2d5d733, type: 3}
+      SortingOrderReality: 0
+      SortingOrderVr: 0
+      BannerModels: []
+    - NumberLayer: 5
+      SpeedMove: 5
+      SpritesForReality:
+      - {fileID: 21300000, guid: 60f3def9d284c71479cedf6ce203e6a8, type: 3}
+      - {fileID: 21300000, guid: 60f3def9d284c71479cedf6ce203e6a8, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: 60f3def9d284c71479cedf6ce203e6a8, type: 3}
+      - {fileID: 21300000, guid: 60f3def9d284c71479cedf6ce203e6a8, type: 3}
+      SortingOrderReality: 0
+      SortingOrderVr: 0
+      BannerModels: []
+    - NumberLayer: 6
+      SpeedMove: 3.8
+      SpritesForReality:
+      - {fileID: 21300000, guid: cd45c22f970b02641a2aa6f8e4183bda, type: 3}
+      - {fileID: 21300000, guid: cd45c22f970b02641a2aa6f8e4183bda, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: cd45c22f970b02641a2aa6f8e4183bda, type: 3}
+      - {fileID: 21300000, guid: cd45c22f970b02641a2aa6f8e4183bda, type: 3}
+      SortingOrderReality: 0
+      SortingOrderVr: 0
+      BannerModels: []
+    - NumberLayer: 7
+      SpeedMove: 3.2
+      SpritesForReality:
+      - {fileID: 21300000, guid: c9987760311b0814db8b7a5bb5577e13, type: 3}
+      - {fileID: 21300000, guid: c9987760311b0814db8b7a5bb5577e13, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: c9987760311b0814db8b7a5bb5577e13, type: 3}
+      - {fileID: 21300000, guid: c9987760311b0814db8b7a5bb5577e13, type: 3}
+      SortingOrderReality: 0
+      SortingOrderVr: 0
+      BannerModels: []
+    - NumberLayer: 8
+      SpeedMove: 2.5
+      SpritesForReality:
+      - {fileID: 21300000, guid: 91e057e35458e3c4c93c1dda3f4dc7f8, type: 3}
+      - {fileID: 21300000, guid: 91e057e35458e3c4c93c1dda3f4dc7f8, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: 91e057e35458e3c4c93c1dda3f4dc7f8, type: 3}
+      - {fileID: 21300000, guid: 91e057e35458e3c4c93c1dda3f4dc7f8, type: 3}
+      SortingOrderReality: 0
+      SortingOrderVr: 0
+      BannerModels: []
+    - NumberLayer: 9
+      SpeedMove: 1.6
+      SpritesForReality:
+      - {fileID: 21300000, guid: 8e23a27d6c9c7294b9181ff5ab8b8208, type: 3}
+      - {fileID: 21300000, guid: 8e23a27d6c9c7294b9181ff5ab8b8208, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: 8e23a27d6c9c7294b9181ff5ab8b8208, type: 3}
+      - {fileID: 21300000, guid: 8e23a27d6c9c7294b9181ff5ab8b8208, type: 3}
+      SortingOrderReality: 0
+      SortingOrderVr: 0
+      BannerModels: []
+    - NumberLayer: 10
+      SpeedMove: 0.6
+      SpritesForReality:
+      - {fileID: 21300000, guid: 1e323fb47c96239468ebb715305f7a9d, type: 3}
+      - {fileID: 21300000, guid: 1e323fb47c96239468ebb715305f7a9d, type: 3}
+      SpritesForVR:
+      - {fileID: 21300000, guid: 1e323fb47c96239468ebb715305f7a9d, type: 3}
+      - {fileID: 21300000, guid: 1e323fb47c96239468ebb715305f7a9d, type: 3}
+      SortingOrderReality: 0
+      SortingOrderVr: 0
+      BannerModels: []

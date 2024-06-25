@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Asset-Tables-Russian (ru)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Asset-Tables-Russian (ru)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cbc94a79fa7834fac84282e4f011f284
+  m_SerializeEntries:
+  - m_GUID: 1b0e682650c4bb3459df4096787d474b
+    m_Address: LangueSettingPanel_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: a4c40eeb0811dfd4f904b5f39ac885bd
+    m_Address: Pause_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: c6927f02b94455742862ce0e82eabd16
+    m_Address: ReturnPanel_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: 10b70862026d9d94d8bdb863b898a48d
+    m_Address: YesButton_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: 00e930b2c40f3384b9782a948184cf81
+    m_Address: NoButton_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: c77158f74d1a3604eacd39daf07c8e36
+    m_Address: ExitPanel_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: 48ca7551e3a36f54caf5278d8e552c6d
+    m_Address: Score_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: 02d286dd5801f734fb718f9195d324be
+    m_Address: NewRecordPanel_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: 183c8d344f0dd24468a455b9db2ab715
+    m_Address: New_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: 19f7e354add82be4183369081411820f
+    m_Address: RestartButton_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: 81db464bf5694194b84ba5b449eb8970
+    m_Address: Play_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: 205665f8762861c4e8e7584e3dac052b
+    m_Address: Play_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 24845a6f732194fd2a1400526563bba1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8a88409c89833497aaf3e5beceb16801, type: 2}
+    - {fileID: 11400000, guid: 3d1775acdd48848188e4e3a619f5ef92, type: 2}

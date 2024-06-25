@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationText_ru
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ru
+  m_SharedData: {fileID: 11400000, guid: 3eb24254118b64df7ae73cfe272e3e16, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1577841582080
+    m_Localized: "\u0425\u041E\u0422\u0418\u0422\u0415 \u0412\u042B\u0419\u0422\u0418
+      \u0418\u0417 \u0418\u0413\u0420\u042B?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2327330152448
+    m_Localized: "\u0421\u0427\u0401\u0422"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2565797306368
+    m_Localized: "\u0421\u0427\u0401\u0422"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2692024885248
+    m_Localized: "\u041B\u0423\u0427\u0428\u0418\u0439 \u0421\u0427\u0401\u0422"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
